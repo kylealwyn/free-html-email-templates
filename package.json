@@ -1,0 +1,24 @@
+{
+  "name": "email-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "watch": {
+    "scripts": "src/*.js"
+  },
+  "scripts": {
+    "scripts": "babel -d dist src/",
+    "styles": "node-sass -w -o dist src/",
+    "watch": "npm-watch",
+    "serve": "concurrently 'npm run watch' 'npm run styles' 'http-server'"
+  },
+  "keywords": [],
+  "author": "Kyle Alwyn <http://kylealwyn.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "concurrently": "^3.1.0",
+    "npm-watch": "^0.1.6"
+  }
+}
