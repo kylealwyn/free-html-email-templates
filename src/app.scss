@@ -111,6 +111,12 @@ iframe {
   padding: 1rem;
 }
 
+#templates {
+  display: block;
+  max-width: 1260px;
+  margin: 0 auto;
+}
+
 .row:after {
   content: "";
   display: table;

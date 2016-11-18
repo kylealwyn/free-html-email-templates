@@ -2,19 +2,19 @@ const basePath = 'templates'
 const templates = [{
   filename: 'hired.html',
   title: 'Hired',
-  tags: ['feature']
+  tags: ['update', 'feature']
 }, {
   filename: 'yahoo.html',
   title: 'Yahoo',
-  tags: ['alert']
+  tags: ['security', 'alert']
 }, {
   filename: 'dollar-shave-club.html',
   title: 'Dollar Shave Club',
-  tags: ['gift']
+  tags: ['ecommerce', 'gift']
 }, {
   filename: 'patagonia.html',
   title: 'Patagonia',
-  tags: ['deals']
+  tags: ['ecommerce', 'deals']
 }, {
   filename: 'npm.html',
   title: 'NPM',
