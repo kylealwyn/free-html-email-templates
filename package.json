@@ -1,5 +1,5 @@
 {
-  "name": "email-parser",
+  "name": "free-html-email-templates",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,10 +7,10 @@
     "scripts": "src/*.js"
   },
   "scripts": {
+    "start": "concurrently 'npm run watch' 'npm run styles' 'http-server'",
     "scripts": "babel -d dist src/",
     "styles": "node-sass -w -o dist src/",
-    "watch": "npm-watch",
-    "serve": "concurrently 'npm run watch' 'npm run styles' 'http-server'"
+    "watch": "npm-watch"
   },
   "keywords": [],
   "author": "Kyle Alwyn <http://kylealwyn.com>",

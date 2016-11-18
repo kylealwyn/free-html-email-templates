@@ -1,0 +1,225 @@
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width" />
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<title>Albert Email</title>
+=20=20=20=20
+<link href=3D'https://fonts.googleapis.com/css?family=3DLato:400,300,500,70=
+0,900' rel=3D'stylesheet' type=3D'text/css'>
+
+
+<html>
+<head><style type=3D"text/css">@media only screen and (max-width: 600px) {
+    a[class=3D"btn"] {
+        display: block;
+        margin-bottom: 10px;
+        background-image: none;
+        margin-right: 0
+        }
+    div[class=3D"column"] {
+        width: auto;
+        float: none
+        }
+    table.social div[class=3D"column"] {
+        width: auto
+        }
+    .content {
+        padding: 15px 10px
+        }
+    }</style></head>
+=20
+<body bgcolor=3D"#F6F6F9" style=3D"-webkit-font-smoothing:antialiased; -web=
+kit-text-size-adjust:none; background-color:#F6F6F9; height:100%; margin:0;=
+ width:100%" height=3D"100%" width=3D"100%">
+
+    <!-- BODY -->
+    <table cellpadding=3D"0" style=3D"border-collapse:collapse; width:100%"=
+ width=3D"100%">
+        <tr>
+            <td></td>
+            <td bgcolor=3D"#FFFFFF" style=3D"clear:both; display:block; mar=
+gin:0 auto; max-width:600px">
+                <div style=3D"padding-top:40px; text-align:center" align=3D=
+"center">
+                    <img src=3D"https://meetalbert.com/static/img/emails/Ap=
+pIcon.ba6da4738168.png" height=3D"90" width=3D"90" style=3D"max-width:100%">
+                </div>
+            </td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td bgcolor=3D"#FFFFFF" style=3D"clear:both; display:block; mar=
+gin:0 auto; max-width:600px">
+                <div style=3D"display:block; margin:0 auto; max-width:600px=
+; padding:30px 30px 100px 30px">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+<table style=3D"border-collapse:collapse; text-align:center; width:100%" al=
+ign=3D"center" width=3D"100%">
+
+    <tr>
+    <td>
+        <h2 style=3D'color:#000; font-family:"Lato", sans-serif; font-size:=
+30px; font-weight:300; line-height:1.1; margin-bottom:50px; text-align:cent=
+er' align=3D"center">The New Albert Just Launched!</h2>
+        <p style=3D'font-family:"Lato", sans-serif; font-size:15px; font-we=
+ight:normal; line-height:1.5; margin-bottom:10px; text-align:center' align=
+=3D"center">Hey Kyle, there=E2=80=99s a whole lot new inside. Some highligh=
+ts: Albert Savings support for all U.S. banks, important alerts and tips, c=
+ars, a brand new Knowledge Center, and more goodies. Enjoy!</p>
+    </td>
+</tr>
+
+
+    <tr>
+    <td>
+=20=20=20=20=20=20=20=20
+            <br>
+=20=20=20=20=20=20=20=20
+            <br>
+=20=20=20=20=20=20=20=20
+    </td>
+</tr>
+
+
+
+    <tr>
+    <td align=3D"center">
+=20=20=20=20=20=20=20=20
+            <a href=3D"https://u2676111.ct.sendgrid.net/wf/click?upn=3Dt24a=
+XJD9LMlzcqNb44z9P-2FVuECqk2HbBO5T-2F4KY5KlQ-2F-2FxGhy-2BcdIrp0ew35j61zL4D3z=
+G-2F6tOOfN0pbxbaL4g-3D-3D_JQ3rRCPleqb8x0k-2BbXVdUPnIZdyGYgspGBSR3zXTitP4tBe=
+-2FjkwzOG7p-2F1bh-2FFrQpXkBF5Eiaw5G9-2FekBbCucJl1sqgi4DUb7Ofnc7t98-2F2We-2B=
+phEhh5J2AlNX27BP8VX-2BHGQs3PNro76nrcbn75SgafrKldEOzEE3hjTwCJ9SxC1Yr6FqiA80I=
+ddE6tP55fnPqYz8IlMFwejITSpQhEE6mrHPs9fkKn-2BZ3f7m1zX-2B11e5XkokhXrK925STi7Q=
+HWzqPTIPXFJmDazLTkdPB1kA-3D-3D" style=3D'color:#2BA6CB; font-family:"Lato",=
+ sans-serif'>
+=20=20=20=20=20=20=20=20
+            <img src=3D"https://meetalbert.com/static/img/emails/Screenshot=
+Appv2.png" style=3D"max-width:100%; width:350px" width=3D"350">
+=20=20=20=20=20=20=20=20
+            </a>
+=20=20=20=20=20=20=20=20
+    </td>
+</tr>
+
+
+
+    <tr>
+    <td>
+=20=20=20=20=20=20=20=20
+            <br>
+=20=20=20=20=20=20=20=20
+            <br>
+=20=20=20=20=20=20=20=20
+    </td>
+</tr>
+
+
+
+    <tr>
+  <td>
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border=
+-collapse:collapse; width:100%" width=3D"100%">
+      <tr>
+        <td bgcolor=3D"#0FB9DA" style=3D"-webkit-border-radius:6px; border-=
+radius:6px" align=3D"center">
+          <a href=3D"https://u2676111.ct.sendgrid.net/wf/click?upn=3Dt24aXJ=
+D9LMlzcqNb44z9P-2FVuECqk2HbBO5T-2F4KY5KlQ-2F-2FxGhy-2BcdIrp0ew35j61zL4D3zG-=
+2F6tOOfN0pbxbaL4g-3D-3D_JQ3rRCPleqb8x0k-2BbXVdUPnIZdyGYgspGBSR3zXTitP4tBe-2=
+FjkwzOG7p-2F1bh-2FFrQIepwiLgmcWqOPDqj6SATZ9kj5kdbl9pJsZP90f-2Fd8fUTgRWJve-2=
+FUfvLsE3gGB88M-2FhQ4xGPtxoPXwloSClE92LKb-2FltlcHs4HTRC-2F9kutxIAv8Ad4pT-2B5=
+383W4QRpnezjT5PdHk37L-2FlPJRrCLW8-2FbErpF9mSbBmygeViOzBbslcIurjwBw9aKTVunv-=
+2B3x-2F2wouCZvFAzNoD07sedT2LdA-3D-3D" style=3D'color:#fff; display:inline-b=
+lock; font-family:"Lato", sans-serif; font-size:18px; font-weight:normal; p=
+adding:26px 0; text-decoration:none'>OPEN THE APP</a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+</table>
+
+
+                </div>
+<!-- /content -->
+            </td>
+            <td></td>
+        </tr>
+    </table>
+<!-- /BODY -->
+
+    <!-- FOOTER -->
+    <table style=3D"border-collapse:collapse; clear:both; width:100%" width=
+=3D"100%">
+        <tr>
+            <td></td>
+            <td style=3D"clear:both; display:block; margin:0 auto; max-widt=
+h:600px">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    <!-- content -->
+                    <div style=3D"display:block; margin:0 auto; max-width:6=
+00px; padding:30px 30px 100px 30px">
+                    <table style=3D"border-collapse:collapse; width:100%" w=
+idth=3D"100%">
+                    <tr>
+                        <td align=3D"center">
+                            <p style=3D'color:#bbb; font-family:"Lato", san=
+s-serif; font-size:12px; font-weight:normal; line-height:1.5; margin-bottom=
+:10px'>
+                                Copyright =C2=A9 2016, Albert Corporation<b=
+r>
+                                6121 Sunset Blvd, Los Angeles CA, 90028<br>=
+<br>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                                    <a href=3D"https://u2676111.ct.sendgrid=
+.net/wf/click?upn=3Dt24aXJD9LMlzcqNb44z9P-2FG5NgeeThY94o-2FIIykd21nEAL2fMHs=
+FAkSAdCzEjFsWRrKCbvlZ2cTht2Rmk-2BGnYrPSr2OCFdZnpXnxZcRlveE-3D_JQ3rRCPleqb8x=
+0k-2BbXVdUPnIZdyGYgspGBSR3zXTitP4tBe-2FjkwzOG7p-2F1bh-2FFrQXfIeYBMM1Igx2hXr=
+GbfbTQtxv8qNkzOiiGwTnSvF8FsmtVf-2BoQabLcgadv3dCGb-2FOGy0zkDI-2FRGBbnMA-2BOx=
+sACuAvpsdTh6nmTcIC9NHDrUpF3IZPcDue2KmtokFJr4XPNVCszHDHBVChYt5FglkhdYxlZA7P5=
+ZHGzrSgXcY42DEfZrvyWYRVSmAzwIjYENS9RW5q54tunoLeYa7LveNSQ-3D-3D" style=3D'co=
+lor:#bbb; font-family:"Lato", sans-serif; text-decoration:none'>Unsubscribe=
+</a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+                    </div>
+<!-- /content -->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+            </td>
+            <td></td>
+        </tr>
+    </table>
+<!-- /FOOTER -->
+
+
+<img src=3D"https://u2676111.ct.sendgrid.net/wf/open?upn=3DJQ3rRCPleqb8x0k-=
+2BbXVdUPnIZdyGYgspGBSR3zXTitP4tBe-2FjkwzOG7p-2F1bh-2FFrQR-2FyBCYxndoNwnJuao=
+Ot-2B0HbFyffdO3bAMzfV6venD6dXSW1pmArAZ6dQlO6mBKmAjZVBaFGM01x8B9tlmcOkoOg8m1=
+lvpMVA-2F22lhefp2qSag6e6FEUBz5iXkcXHowrmbH-2BxG7lRt-2FBnwQW5Yzv6RcGuLbG8S6w=
+3EaYPL1QhAR7D3ai2iD-2FoQFkyHwrP80Q1bluEFaDonNSO4dEnpuodpw-3D-3D" alt=3D"" w=
+idth=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1=
+px !important;border-width:0 !important;margin-top:0 !important;margin-bott=
+om:0 !important;margin-right:0 !important;margin-left:0 !important;padding-=
+top:0 !important;padding-bottom:0 !important;padding-right:0 !important;pad=
+ding-left:0 !important;"/>
+</body>
+</html>

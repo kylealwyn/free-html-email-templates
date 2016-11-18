@@ -22,6 +22,15 @@ a {
   text-decoration: none;
 }
 
+a.cover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+}
+
 body {
   min-height: 100vh;
   display: flex;
@@ -80,7 +89,7 @@ main {
 
 /* 4x3 Aspect Ratio */
 .responsive-embed-4x3 {
-  padding-bottom: 75%;
+  padding-bottom: 85%;
 }
 
 .responsive-embed iframe {
@@ -119,8 +128,12 @@ iframe {
     width: 50%;
   }
 
-  @media (min-width: 1260px) {
+  @media (min-width: 968px) {
     width: 33%;
+  }
+
+  @media (min-width: 1260px) {
+    width: 25%;
   }
 }
 
