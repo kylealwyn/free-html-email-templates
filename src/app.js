@@ -23,6 +23,10 @@ const templates = [{
   filename: 'albert.html',
   title: 'Albert',
   tags: ['update', 'feature']
+}, {
+  filename: 'code-school.html',
+  title: 'Code School',
+  tags: ['achievement']
 }];
 
 const templatesContainer = document.getElementById('templates');
