@@ -2,6 +2,10 @@
 
 var basePath = 'templates';
 var templates = [{
+  filename: 'wealthfront.html',
+  title: 'Wealthfront',
+  tags: ['thank you', 'update', 'holidays']
+}, {
   filename: 'hired.html',
   title: 'Hired',
   tags: ['update', 'feature']

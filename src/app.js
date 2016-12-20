@@ -1,5 +1,9 @@
 const basePath = 'templates'
 const templates = [{
+  filename: 'wealthfront.html',
+  title: 'Wealthfront',
+  tags: ['thank you', 'update', 'holidays']
+}, {
   filename: 'hired.html',
   title: 'Hired',
   tags: ['update', 'feature']

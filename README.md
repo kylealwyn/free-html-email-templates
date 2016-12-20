@@ -6,7 +6,7 @@ Adding A Template
 
 #### If you have the raw source
 1. Add raw, unparsed email source file to `templates/raw`
-2. Parse file: `python parse_email.py 'path_to_file'`
+2. Parse file: `python scripts/parse.py 'path_to_file_raw'`
 3. Add your entry to the `templates` array in `src/app.js`
 
 Developing
