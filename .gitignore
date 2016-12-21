@@ -1,3 +1,5 @@
 node_modules
 .DS_STORE
 tmp
+scripts/decode.pyc
+npm-debug.log

@@ -10,7 +10,8 @@
     "start": "concurrently 'npm run watch' 'npm run styles' 'http-server'",
     "scripts": "babel -d dist src/",
     "styles": "node-sass -w -o dist src/",
-    "watch": "npm-watch"
+    "watch": "npm-watch",
+    "parse": "python scripts/parse.py"
   },
   "keywords": [],
   "author": "Kyle Alwyn <http://kylealwyn.com>",
