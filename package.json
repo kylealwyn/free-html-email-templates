@@ -1,7 +1,7 @@
 {
   "name": "free-html-email-templates",
   "version": "1.0.0",
-  "description": "",
+  "description": "A collection of email templates being used in production",
   "main": "app.js",
   "watch": {
     "scripts": "src/*.js"
@@ -13,7 +13,7 @@
     "watch": "npm-watch",
     "parse": "python scripts/parse.py"
   },
-  "keywords": [],
+  "keywords": ["email"],
   "author": "Kyle Alwyn <http://kylealwyn.com>",
   "license": "ISC",
   "devDependencies": {
